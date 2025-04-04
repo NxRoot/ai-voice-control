@@ -1,0 +1,22 @@
+[
+    {
+        "input": ["open google"],
+        "command": "start https://google.com"
+    },
+    {
+        "input": ["open netflix"],
+        "command": "start https://netflix.com"
+    },
+    {
+        "input": ["open youtube"],
+        "command": "start https://youtube.com"
+    },
+    {
+        "input": ["open chat gpt", "open chatgpt"],
+        "command": "start https://chatgpt.com"
+    },
+    {
+        "input": ["open console", "open terminal"],
+        "command": "start"
+    }
+]
