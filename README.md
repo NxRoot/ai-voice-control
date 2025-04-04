@@ -1,6 +1,6 @@
 # AiVC - AI Voice Control
 
-This project was developed in C# using .NET CLI.
+This project was developed with C# using .NET CLI.
  
 [WATCH DEMO VIDEO](https://www.youtube.com/watch?v=y3oFwVHh8Yk)
 
@@ -15,7 +15,7 @@ This project was developed in C# using .NET CLI.
 ## How to Install
 | Exe    | Description | Releases |
 | -------- | ------- | ------- |
-| <a href="https://github.com/NxRoot/ai-voice-control/archive/refs/heads/master.zip"><img style="min-width: 40px;min-height: 40px; width: 40px;" src="https://i.ibb.co/Vcqcs813/icon-3.png"/></a> | Download the latest version   | [Download](https://github.com/NxRoot/ai-voice-control/archive/refs/heads/master.zip)    |
+| <a href="https://github.com/NxRoot/ai-voice-control/archive/refs/heads/master.zip"><img style="min-width: 40px;min-height: 40px; width: 40px;" src="https://i.ibb.co/TxrZrFf0/output-onlinepngtools.png"/></a> | Download the latest version   | [Download](https://github.com/NxRoot/ai-voice-control/archive/refs/heads/master.zip)    |
 
 ## Requirements
 
